@@ -1,0 +1,39 @@
+
+{
+  "prefix": "+",
+  "color": "#ADD8E6",
+  "autoRoleId": "1551019761150726235",
+  "memberRoleId": "1551019761150726235",
+  "ownerId": "1456805364790988914",
+  "ownerIds": [
+    "1456805364790988914"
+  ],
+  "logChannelId": "1558994475727065188",
+  "ticketStaffRoleIds": [
+    "1559380786657103903",
+    "1558988419147890820"
+  ],
+  "ticketCategoryId": "1551022582785114122",
+  "ticketTranscriptChannelId": "1558984799140712579",
+  "antiLinkAllowedDomains": [
+    "discord.com",
+    "youtube.com",
+    "youtu.be"
+  ],
+  "antiSpam": {
+    "maxMessages": 6,
+    "intervalMs": 5000,
+    "timeoutMs": 60000
+  },
+  "raid": {
+    "joins": 8,
+    "intervalMs": 15000
+  },
+  "massBan": {
+    "count": 3,
+    "intervalMs": 10000
+  },
+  "autoPingChannelId": "1558975192209035354",
+  "wlRoleId": "1559610423815176212",
+  "reactRoleMessageId": "ID_DU_MESSAGE"
+}
