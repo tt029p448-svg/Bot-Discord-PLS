@@ -1,0 +1,47 @@
+{
+  "1563413298756591756": {
+    "categoryId": "1551022582785114122",
+    "supportRoleIds": [
+      "1559380786657103903",
+      "1558988419147890820"
+    ],
+    "transcriptChannelId": "1558984799140712579",
+    "panelChannelId": "1563479480780071133",
+    "panelMessageId": "1563498710552547329",
+    "bannerUrl": "https://cdn.discordapp.com/banners/1563420604437364796/06ac3c6284920cd2e3cf55ced8bc7d53.webp?size=1024",
+    "title": "Centre de tickets",
+    "description": "Choisis le motif de ton ticket ci-dessous.",
+    "types": [
+      {
+        "label": "Support général",
+        "value": "support",
+        "description": "Obtenir de l'aide",
+        "emoji": "🎧"
+      },
+      {
+        "label": "Achat / Boutique",
+        "value": "boutique",
+        "description": "Question sur un achat",
+        "emoji": "🛒"
+      },
+      {
+        "label": "Partenariat",
+        "value": "partenariat",
+        "description": "Proposer un partenariat",
+        "emoji": "🤝"
+      },
+      {
+        "label": "Recrutement",
+        "value": "recrutement",
+        "description": "Rejoindre l'équipe",
+        "emoji": "👥"
+      },
+      {
+        "label": "Signalement",
+        "value": "signalement",
+        "description": "Signaler un problème",
+        "emoji": "🛡️"
+      }
+    ]
+  }
+}

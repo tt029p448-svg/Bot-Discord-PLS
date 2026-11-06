@@ -1,0 +1,44 @@
+{
+  "1562272389620834305": {
+    "antispam": false,
+    "antieveryone": false,
+    "antilink": false,
+    "spamLimit": 5,
+    "spamWindow": 5000,
+    "allowedLinks": [
+      "youtube.com"
+    ],
+    "bypass": [
+      "1559162830152802344"
+    ]
+  },
+  "1551019321084485666": {
+    "antispam": true,
+    "antieveryone": true,
+    "antilink": true,
+    "antirole": true,
+    "roleMembresId": null,
+    "spamLimit": 5,
+    "spamWindow": 5000,
+    "allowedLinks": [],
+    "bypass": []
+  },
+  "1563413298756591756": {
+    "antispam": true,
+    "antieveryone": true,
+    "antilink": true,
+    "antirole": true,
+    "roleMembresId": null,
+    "spamLimit": 5,
+    "spamWindow": 5000,
+    "allowedLinks": [],
+    "bypass": [],
+    "antiadmin": true,
+    "antiHackEnabled": true,
+    "antiHackChannelId": "1563468577737285713",
+    "antiHackMessageId": "1563468692535255071",
+    "antiHackTitle": "SÉCURITÉ — SALON ANTI-HACK",
+    "antiHackDescription": "NE PAS ÉCRIRE DANS CE SALON.\n\nCe salon est un système de détection automatique des comptes potentiellement compromis.\nIl permet d’identifier les comptes et programmes malveillants qui envoient automatiquement des messages dans tous les salons du serveur.\n\nSi vous envoyez un message ici :\n• Un timeout de 60 minute(s) pourra être appliqué.\n• Vos messages des 5 dernières minute(s) seront recherchés et supprimés dans les salons accessibles au bot.\n• Une alerte sera envoyée à l’équipe de modération.\n• L’incident sera enregistré dans notre système de sécurité.\n\nN’ÉCRIVEZ PAS ICI, MÊME POUR TESTER.\nCe dispositif est automatique et vise à protéger les membres du serveur.",
+    "antiHackColor": "#8A2BE2"
+  }
+}
